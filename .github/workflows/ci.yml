@@ -1,0 +1,21 @@
+name: Agent Swarm CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  repository-verification:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          test -f README.md
+          test -f PROTOCOL.md
+          test -f JAHIDS_AI_ALIGNMENT.md
+          git diff --check
