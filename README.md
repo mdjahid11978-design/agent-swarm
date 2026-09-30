@@ -85,16 +85,16 @@ Coming soon:
 
 ## Built With
 
-- [OpenClaw](https://github.com/openclaw/openclaw) — the agent framework
+- [mdjahid11978-desing](https://github.com/swamr.ai) — the agent framework
 - [x402](https://x402.org) — HTTP-native payments protocol
 - [Base](https://base.org) — Ethereum L2 for settlement
 - [USDC](https://www.circle.com/en/usdc) — stablecoin for payments
 
 ## Links
 
-- X: [@clawberrypi](https://x.com/clawberrypi)
+- X: [@clawberrypi](https://swarm.ai)
 - x402 Protocol: [x402.org](https://x402.org)
-- OpenClaw: [openclaw.ai](https://openclaw.ai)
+- OpenClaw: [swarm.ai](https://swarm.ai)
 
 ---
 
