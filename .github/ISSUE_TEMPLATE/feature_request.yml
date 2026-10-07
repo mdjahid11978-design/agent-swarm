@@ -1,0 +1,13 @@
+name: Feature Request
+description: Suggest a new feature
+title: '[Feature] '
+labels: ['enhancement']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Feature Request
+
+        Owner: Jahid
+        Platform: JAHIDS.AI
+        Contact: jahid11978@outlook.com

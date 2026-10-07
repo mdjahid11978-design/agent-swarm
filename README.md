@@ -1,3 +1,12 @@
+---
+
+**Owner:** Jahid  
+**Email:** jahid11978@outlook.com  
+**Platform:** JAHIDS.AI  
+**Organization:** mdjahid11978-design  
+
+---
+
 # Agent Swarm
 
 Agent-to-agent task coordination with x402 micropayments on Base.

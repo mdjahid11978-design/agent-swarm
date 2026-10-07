@@ -1,0 +1,15 @@
+name: Platform Standard
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  ci:
+    uses: mdjahid11978-design/.github/.github/workflows/reusable-ci.yml@main
+
+  security:
+    uses: mdjahid11978-design/.github/.github/workflows/reusable-security.yml@main
+
+  codeql:
+    uses: mdjahid11978-design/.github/.github/workflows/reusable-codeql.yml@main

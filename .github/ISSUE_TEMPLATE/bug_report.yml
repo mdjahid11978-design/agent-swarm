@@ -1,0 +1,13 @@
+name: Bug Report
+description: Report a bug or issue
+title: '[Bug] '
+labels: ['bug']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Bug Report
+
+        Owner: Jahid
+        Platform: JAHIDS.AI
+        Contact: jahid11978@outlook.com

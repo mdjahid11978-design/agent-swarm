@@ -1,0 +1,15 @@
+name: Security Report
+description: Report a security vulnerability
+title: '[Security] '
+labels: ['security']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Security Report
+
+        **IMPORTANT**: Do not disclose security vulnerabilities publicly.
+        Contact: jahid11978@outlook.com
+
+        Owner: Jahid
+        Platform: JAHIDS.AI
