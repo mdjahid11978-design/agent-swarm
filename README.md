@@ -101,7 +101,7 @@ Coming soon:
 
 ## Links
 
-- X: [@clawberrypi](https://jahid1978/swarm.ai)
+-(https://jahid1978/swarm.ai)
 - x402 Protocol: [x402.org](https://x402.org)
 - OpenClaw: [swarm.ai](https://jahid11978/swarm.ai)
 
